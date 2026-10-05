@@ -1,0 +1,22 @@
+{
+    "scale": 0.018844277702838644,
+    "roi_coords": [
+        [
+            413,
+            237
+        ],
+        [
+            441,
+            237
+        ],
+        [
+            441,
+            251
+        ],
+        [
+            413,
+            251
+        ]
+    ],
+    "video": "C:\\Users\\Siddig\\Desktop\\IIT Roorkee\\code\\test3.mp4"
+}

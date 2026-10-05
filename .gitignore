@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/opara/
+*.MOV
+*.npy
+.DS_Store
+results/*.csv
+!results/combined_velocity_comparison.csv
+!results/velocity_output_final.csv
+!results/best_velocity_results.csv

@@ -1,0 +1,24 @@
+{
+    "scale": 0.014608515133647802,
+    "roi_coords": [
+        [
+            375,
+            237
+        ],
+        [
+            539,
+            238
+        ],
+        [
+            620,
+            397
+        ],
+        [
+            304,
+            393
+        ]
+    ],
+    "video": "C:\\Users\\Siddig\\Desktop\\IIT Roorkee\\code\\test4.mp4",
+    "camera_height": 10.0,
+    "camera_angle": 45.0
+}

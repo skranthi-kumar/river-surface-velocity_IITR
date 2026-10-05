@@ -1,0 +1,10 @@
+{
+  "scale_m_per_px": 0.007467,
+  "method": "manual_two_point",
+  "real_distance_m": 1.2,
+  "pixel_distance": 160.7,
+  "points": [[476, 242], [491, 402]],
+  "date": "2025-10-29",
+  "video": "test3.mp4",
+  "note": "Measured between two visible rocks in river"
+}
